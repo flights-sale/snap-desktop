@@ -14,9 +14,14 @@ flightsSALE is an independent flight intelligence engine that curates publicly p
 
 * **Real-Time Deal Briefings**: Distills complex airline announcements into clean, actionable, bite-sized intel briefs.
 * **Official Promo Codes & Perks**: Uncovers limited-time promo codes, App-only sales, companion discounts, and official carrier perks.
-* **Global Coverage & Auto-Translation**: Tracks regional carrier promotions worldwide and automatically translates them into 10 major languages.
-* **100% Verified Sources**: Rigorously verifies official airline channels to ensure legitimate information and protect you from fake offers or phishing.
+* **Global Coverage & Auto-Translation**: Tracks regional carrier promotions worldwide and immediately translates them into 10 major languages.
+* **Verified Sources**: Rigorously verifies official airline channels to ensure legitimate information and protect you from fake offers or phishing.
 
+## Screenshots
+
+| Real-Time Deal Briefing | Multi-Language Support |
+| :---: | :---: |
+| ![Deal Briefing](https://flights-sale.com/images/fs/screenshots/homepage-en.png) | ![Multi-Language Support](https://flights-sale.com/images/fs/screenshots/multi-language.png) |
 ---
 
 ## Installation
