@@ -72,12 +72,7 @@ Or search for **flightsSALE** in your Linux distribution's Software Center / Sna
 ---
 
 ## Legal & Disclaimer
-
-**Nature of Our Service (Information Aggregator ONLY & NO Sales)**
-
-Content provided through this application is provided for general informational purposes **ONLY** and solely as an independent self-help resource. flightsSALE operates **ONLY** as an independent information aggregator that curates publicly posted third-party content, promotional information, or offers from external sources.
-
-This application **DOES NOT** sell, resell, book, issue, host, or process payments for any products, flights, tickets, travel packages, bookings, or services of any kind. This application is **NOT** a travel agency, merchant of record, ticket broker, booking engine, or transactional intermediary. Where available, intel briefs link directly to original third-party announcements so users can verify details independently.
+flightsSALE operates as an independent flight deal intelligence engine for self-help reference only. This application DOES **NOT** sell, resell, book, issue, host, or process payments for any flights, tickets, or travel services of any kind, and is **NOT** a travel agency, ticket broker, booking engine, or transactional intermediary. Where feasible, direct links to the original source are provided so you can verify details directly with the information source.
 
 ---
 
